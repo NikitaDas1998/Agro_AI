@@ -1,0 +1,11 @@
+ultralytics
+speechrecognition
+gtts
+googletrans==4.0.0rc1
+numpy
+fastapi
+uvicorn
+pydantic
+python-multipart
+google-cloud-texttospeech
+python-dotenv

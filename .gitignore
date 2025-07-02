@@ -1,0 +1,22 @@
+# Python
+venv/
+__pycache__/
+*.py[cod]
+*.so
+*.dylib
+*.db
+.env
+
+# Flutter / Dart
+build/
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# macOS
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/
